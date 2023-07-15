@@ -17,3 +17,6 @@ with data from
 ```
 
 in "./FullCalendarModal/test_0_0_3/full_cal_3.js" in Line 683
+
+#i injected the modal component into the javascript file "full_cal_3.js" so it can be displayed on click of the input tag
+#I commented out the jquery script with
